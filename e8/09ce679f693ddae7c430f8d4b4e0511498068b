@@ -1,0 +1,59 @@
+benchmarks/linear/src/broker.ts
+  s_c3357ba9a2cf24::t_852e6de296f3fd 7-11,100,108,118-121,123-124,126-127,129,131-132
+benchmarks/linear/src/safety.ts
+  s_c3357ba9a2cf24::t_a9fc43e862731f 214-219,221-222,225-236,240-245,257-262,290-295,315-320
+  s_c3357ba9a2cf24::t_ecb0c7a500afce 1,202
+benchmarks/linear/src/operations.ts
+  s_c3357ba9a2cf24::t_c282d11337db38 53-55,57-59
+  s_c3357ba9a2cf24::t_960e9b93c6b245 1,169-177,179-181
+benchmarks/linear/tests/operations.test.ts
+  s_c3357ba9a2cf24::t_8fc3997a5019ba 85-112,132
+  s_c3357ba9a2cf24::t_9602d4587b9a71 113-115,129-131
+  s_c3357ba9a2cf24::t_33445b1a9d3b78 133
+  s_c3357ba9a2cf24::t_22b62f1a93c083 14,21,116-128
+benchmarks/linear/tests/broker.test.ts
+  s_c3357ba9a2cf24::t_877ff8307ab923 52-53
+  s_c3357ba9a2cf24::t_3c312a8deb2609 51
+  s_c3357ba9a2cf24::t_0a0048686146fa 48-50
+  s_c3357ba9a2cf24::t_a250fd6a8c4f5f 35-40,43-44,46-47,94,101,106,114
+benchmarks/linear/tests/safety.test.ts
+  s_c3357ba9a2cf24::t_eac53ceed2fe76 2-4,118,120-136,157,165-173,176-197,201-210
+  s_c3357ba9a2cf24::t_5a76302163d89c 174-175,198-200
+  s_c3357ba9a2cf24::t_f9d8656be476b7 211-212
+  s_c3357ba9a2cf24::t_76bb96bed2c355 272
+benchmarks/linear/src/axi-argv.ts
+  s_c3357ba9a2cf24::t_8713690a978fe0 7-9,30-32
+  s_c3357ba9a2cf24::t_237f5f337c569d 1-2,10-29,50-51,74-79,473-477,485-493,501-514
+  s_c3357ba9a2cf24::t_a018fd93b7ec8b 498-500,515-517
+  s_c3357ba9a2cf24::t_42b95e3c238b75 33,40,46,55,60,67,83-469,481,497,518,522,526
+  s_c3357ba9a2cf24::t_af661bfac05878 61-66
+  s_c3357ba9a2cf24::t_fdaa9685c89312 70
+  s_c3357ba9a2cf24::t_ef36ee889f3806 523-525
+  s_c3357ba9a2cf24::t_4ce6b291b5ea4b 482-484,494-496
+  s_c3357ba9a2cf24::t_152124c7e4d285 41-45
+  s_c3357ba9a2cf24::t_957dfd488823a4 56-59
+  s_c3357ba9a2cf24::t_9173684d04574f 34-39
+  s_c3357ba9a2cf24::t_656c5d154977c0 470-472,478-480
+  s_c3357ba9a2cf24::t_8be58421b235ff 68-69
+  s_c3357ba9a2cf24::t_491daf6c8651f0 3-5
+  s_c3357ba9a2cf24::t_f812397c24b471 71-73,80-82
+  s_c3357ba9a2cf24::t_446f9910a748a6 6
+  s_c3357ba9a2cf24::t_45aa2be844f780 47-49,52-54
+  s_c3357ba9a2cf24::t_90392eee882478 519-521
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "e809ce679f693ddae7c430f8d4b4e0511498068b",
+  "prompts": {},
+  "sessions": {
+    "s_c3357ba9a2cf24": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fce52-c746-7341-8443-8566a2342818",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
