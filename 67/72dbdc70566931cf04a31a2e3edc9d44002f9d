@@ -1,0 +1,21 @@
+CHANGELOG.md
+  s_c3357ba9a2cf24::t_a5dcb2fe6b5232 12
+skills/magi-linear-axi/SKILL.md
+  s_c3357ba9a2cf24::t_57bb456f8e7051 42-45,58,79,81,207
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "6772dbdc70566931cf04a31a2e3edc9d44002f9d",
+  "prompts": {},
+  "sessions": {
+    "s_c3357ba9a2cf24": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fce52-c746-7341-8443-8566a2342818",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Justin Bauer <jbauer@crexi.com>"
+    }
+  }
+}
